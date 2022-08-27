@@ -1,0 +1,56 @@
+/*
+    Este archivo CSS es parte de la extensión «Cronox».
+
+    @author      Ulises Francisco Alejandre Navarro
+    @since       2022-08-26
+    @license     MPL 2.0
+  
+    Este codigo fuente está sujeto a los términos de la Licencia Pública
+    de Mozilla, v. 2.0. Si una copia de la licencia no fue distribuída con
+    este archivo, la puede encontrar en http://mozilla.org/MPL/2.0/.
+ */
+
+html, body {
+    width: auto;
+	font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    color: white;
+    background-color: rgb(58, 58, 214);
+}
+
+#cronometro { 
+    padding:10px; 
+    width: auto;
+	text-align: center 
+}
+
+#reloj { 
+    padding: 5px 10px; 
+    width: 170px;
+    border: 2px solid peachpuff; 
+	font: bold 1.5em digital, europa, arial; 
+    text-align: center; 
+	margin: 4px
+}
+
+#botones{
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(80px, 1fr));
+    row-gap: 10px;
+    column-gap: 10px;
+    color: white;
+}
+
+#botones button {
+    background-color: mediumblue;
+    color: white;
+    border: 1px solid white;
+}
+
+#botones button:hover {
+    background-color: darkblue;
+}
+
+#botones button:active {
+    background-color: seagreen;
+}

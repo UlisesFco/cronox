@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<!--
+    Archivo HTML parte de la extensión «Cronox».
+
+    @author      Ulises Francisco Alejandre Navarro
+    @since       2022-08-26
+    @license     MPL 2.0
+  
+    Este codigo fuente está sujeto a los términos de la Licencia Pública
+    de Mozilla, v. 2.0. Si una copia de la licencia no fue distribuída con
+    este archivo, la puede encontrar en http://mozilla.org/MPL/2.0/.
+ -->
+<html>
+    <head>
+        <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+        <link rel="stylesheet" href="popup.css"/>
+    </head>
+    <body>
+        <h1>Cronox</h1>
+        <!-- Descripción localizada de la extensión -->
+        <p data-localize="__MSG_extDesc__">Si se ve este texto, la localización falló</p>
+        <div id="cronometro">
+            <div id="reloj">00:00:00</div>
+            <br>
+            <!-- Botones de acción para el cronómetro -->
+            <div id="botones">
+                <button data-localize="__MSG_inicio__" id="b_iniciar" >Si se ve este texto, la localización falló</button>
+                <button data-localize="__MSG_pausa__" id="b_pausar" >Si se ve este texto, la localización falló</button>
+                <button data-localize="__MSG_continuar__" id="b_continuar" >Si se ve este texto, la localización falló</button>
+                <button data-localize="__MSG_reinicio__" id="b_reiniciar" >Si se ve este texto, la localización falló</button> 
+            </div>
+        </div>
+        <!-- Llamando al script popup.js para hacer la localización -->
+        <script src="cronox.js"></script>
+    </body>
+</html>

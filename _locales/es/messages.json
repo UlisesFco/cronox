@@ -1,0 +1,26 @@
+{
+    "extDesc": {
+        "message": "El cronómetro simple",
+        "description": "Descripción de la extensión."
+    },
+
+    "inicio": {
+        "message": "Iniciar",
+        "description": "Texto del botón «iniciar»."
+    },
+
+    "continuar": {
+        "message": "Continuar",
+        "description": "Texto del botón «continuar»."
+    },
+
+    "pausa": {
+        "message": "Pausar",
+        "description": "Texto del botón «pausar»."
+    },
+
+    "reinicio": {
+        "message": "Reiniciar",
+        "description": "Texto del botón «reiniciar»."
+    }
+}

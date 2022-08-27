@@ -1,0 +1,26 @@
+{
+    "extDesc": {
+        "message": "The simple chronometer",
+        "description": "Description of the extension."
+    },
+
+    "inicio": {
+        "message": "Start",
+        "description": "«Start» button's text"
+    },
+
+    "continuar": {
+        "message": "Continue",
+        "description": "«Continue» button's text"
+    },
+
+    "pausa": {
+        "message": "Pause",
+        "description": "«Pause» button's text"
+    },
+
+    "reinicio": {
+        "message": "Restart",
+        "description": "«Restart» button's text"
+    }
+}
