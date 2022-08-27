@@ -1,5 +1,5 @@
 /**
- * Este archivo es JavaScript es parte de la extensión «Cronox».
+ * Este archivo de JavaScript es parte de la extensión «Cronox».
  *
  * @author      Ulises Francisco Alejandre Navarro
  * @since       2022-08-26
@@ -12,6 +12,7 @@
 
 'use strict';
 
+// Definiendo el tipo de navegador
 if (typeof browser === "undefined") {
     var browser = chrome;
 } else {
@@ -53,7 +54,8 @@ function calcularTiempo() {
     if(seg < 10) {seg = "0" + seg;}
     if(mins < 10) {mins = "0" + mins;}
 
-    cronometro.innerHTML = mins + ":" + seg + ":" + cs;
+    cronometro.textContent = mins + ":" + seg + ":" + cs;
+    // cronometro.innerHTML = mins + ":" + seg + ":" + cs;
 }
 
 /**
@@ -128,7 +130,7 @@ function localizarPagHtml() {
 // Funciones para la localización de la extensión
 /**
  * Reemplaza los tags __MSG_***__ con el mensaje de localización correspondiente
- * @param {*} obj: elemento html que se quiere localizar
+ * @param {*} objeto: elemento html que se quiere localizar
  * @param {*} tag: contenido del tag data-localize de cada objeto html anterior
  */
  function reemplazar(objeto, tag) {
@@ -139,7 +141,8 @@ function localizarPagHtml() {
         
     // Reemplazar el contenido del tag con el mensaje del json correspondiente
     if(mensaje != tag) {
-        objeto.innerHTML = mensaje;
+        objeto.textContent = mensaje;
+        // objeto.innerHTML = mensaje;
     }
 }
 
