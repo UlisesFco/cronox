@@ -29,7 +29,7 @@ The extension has four buttons:
 - Continue: continues to count up time, only works if the pause button was pressed beforehand.
 - Restart: restarts the chronometer (puts the clock back to 00:00:00).
 
-![Extension screenshot](./doc/cronox-en.png "Extension's design")
+![Extension screenshot](./doc/Cronox-en.png "Extension's design")
 
 <!-- Available in:
 
