@@ -1,5 +1,5 @@
 {
-    "manifest_version": 2,
+    "manifest_version": 3,
     "name": "Cronox",
     "version": "1.0",
 
@@ -10,7 +10,7 @@
         "96": "icons/cronox-96.png"
     },
 
-    "browser_action":{
+    "action":{
         "default_icon": "icons/cronox-32.png",
         "default_title": "Cronox",
         "default_popup": "popups/popup.html"

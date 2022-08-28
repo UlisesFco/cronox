@@ -8,15 +8,16 @@ La extensión tiene cuatro botones:
 
 - Iniciar: empieza la cuenta del tiempo.
 - Pausar: pausa la cuenta del tiempo transcurrido.
-- Continuar: continua la cuenta del tiempo, solo funciona si se ha pausado el tiempo anteriormente.
+- Continuar: continúa la cuenta del tiempo, solo funciona si se ha pausado el tiempo anteriormente.
 - Reiniciar: reinicia la cuenta del tiempo (pone el reloj en 00:00:00).
 
 ![Captura de pantalla de la extensión](./doc/cronox-es.png "Diseño de la extensión")
 
-<!-- Disponible en:
+ Disponible en:
 
-- ![Link a la Chrome Web Store](github.com "Chrome")  
-- ![Link a Firefox Browser Add-Ons](github.com "Firefox") -->
+<!-- - ![Link a la Chrome Web Store](github.com "Chrome")   -->
+- ![Link a Firefox Browser Add-Ons](https://addons.mozilla.org/es/firefox/addon/cronox/ "Firefox")
+<!-- - Compatible con Edge -->
 
 ## EN
 
@@ -31,10 +32,11 @@ The extension has four buttons:
 
 ![Extension screenshot](./doc/Cronox-en.png "Extension's design")
 
-<!-- Available in:
+Available in:
 
-- ![Link a la Chrome Web Store](github.com "Chrome")  
-- ![Link a Firefox Browser Add-Ons](github.com "Firefox") -->
+<!-- - ![Link a la Chrome Web Store](github.com "Chrome")   -->
+- ![Link to Firefox Browser Add-Ons](https://addons.mozilla.org/en/firefox/addon/cronox/ "Firefox")
+<!-- - Compatible with Edge -->
 
 ## PT
 
@@ -47,9 +49,10 @@ A extensão tem quatro botões:
 - Continuar: continua a contagem de tempo, só funciona se o botão de pausa foi pressionado previamente.
 - Reinicializar: redefine o cronômetro (põe o relógio em 00:00:00).
 
-![Extension screenshot](./doc/cronox-pt.png "Extension's design")
+![Captura de tela da extensão](./doc/cronox-pt.png "Desenho da extensão")
 
-<!-- Disponível em:
+Disponível em:
 
-- ![Link à Chrome Web Store](github.com "Chrome")  
-- ![Link a Firefox Browser Add-Ons](github.com "Firefox") -->
+<!-- - ![Link à Chrome Web Store](github.com "Chrome")   -->
+- ![Link a Firefox Browser Add-Ons](https://addons.mozilla.org/pt/firefox/addon/cronox/ "Firefox")
+<!-- - Compatível com Edge -->
