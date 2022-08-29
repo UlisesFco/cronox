@@ -15,8 +15,10 @@ La extensión tiene cuatro botones:
 
  Disponible en:
 
-<!-- - ![Link a la Chrome Web Store](github.com "Chrome")   -->
-- ![Link a Firefox Browser Add-Ons](https://addons.mozilla.org/es/firefox/addon/cronox/ "Firefox")
+- Firefox Add-Ons
+- Chrome Web Store
+<!-- - ![Link a la Chrome Web Store](https://chrome.google.com/webstore/detail/cronox/nabmfjbcbkpppfklanhalhbdkhkcoomm?hl=es-419 "Chrome")  
+- ![Link a Firefox Browser Add-Ons](https://addons.mozilla.org/es/firefox/addon/cronox/ "Firefox") -->
 <!-- - Compatible con Edge -->
 
 ## EN
@@ -34,8 +36,10 @@ The extension has four buttons:
 
 Available in:
 
-<!-- - ![Link a la Chrome Web Store](github.com "Chrome")   -->
-- ![Link to Firefox Browser Add-Ons](https://addons.mozilla.org/en/firefox/addon/cronox/ "Firefox")
+- Firefox Add-Ons
+- Chrome Web Store
+<!-- - ![Link a la Chrome Web Store](https://chrome.google.com/webstore/detail/cronox/nabmfjbcbkpppfklanhalhbdkhkcoomm?hl=en-419 "Chrome")  
+- ![Link to Firefox Browser Add-Ons](https://addons.mozilla.org/en/firefox/addon/cronox/ "Firefox") -->
 <!-- - Compatible with Edge -->
 
 ## PT
@@ -53,6 +57,8 @@ A extensão tem quatro botões:
 
 Disponível em:
 
-<!-- - ![Link à Chrome Web Store](github.com "Chrome")   -->
-- ![Link a Firefox Browser Add-Ons](https://addons.mozilla.org/pt/firefox/addon/cronox/ "Firefox")
+- Firefox Add-Ons
+- Chrome Web Store
+<!-- - ![Link à Chrome Web Store](https://chrome.google.com/webstore/detail/cronox/nabmfjbcbkpppfklanhalhbdkhkcoomm?hl=pt-419 "Chrome")  
+- ![Link a Firefox Browser Add-Ons](https://addons.mozilla.org/pt/firefox/addon/cronox/ "Firefox") -->
 <!-- - Compatível com Edge -->
